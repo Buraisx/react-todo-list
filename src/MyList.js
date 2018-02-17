@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import ListItem from './ListItemComponent/ListItem.js'
 import ToDoList from './ToDoList.js';
 
 class MyList extends Component {

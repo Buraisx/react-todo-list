@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import ListItem from './ListItemComponent/ListItem.js';
 
 const ToDoList = props => (

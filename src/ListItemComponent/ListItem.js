@@ -1,12 +1,4 @@
-import React, { Component } from 'react';
-
-// class ListItem extends Component {
-//   render() {
-//     return (
-//       <li>{this.props.doThis}</li>      
-//     );
-//   }
-// }
+import React from 'react';
 
 const ListItem = props => (
 	<li>{props.doThis}</li>
